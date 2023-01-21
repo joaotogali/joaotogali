@@ -8,9 +8,7 @@
 )](https://www.instagram.com/jaotogali/)
 
 
-![joaotogali GitHub stats](https://github-readme-stats.vercel.app/api?username=joaotogali&show_icons=true&theme=radical)
-
-
+![joaotogali GitHub stats](https://github-readme-stats.vercel.app/api?username=joaotogali&show_icons=true&theme=radical)          
 ## Tecnologias que uso no dia-a-dia
 
 <div style="display: inline_block"><br/>
@@ -25,4 +23,4 @@
    <img align="center" alt="node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-   Apaixonado por tecnologia, buscando sempre aprender e aplicando meus conhecimentos em projetos 
+   Apaixonado por tecnologia, buscando sempre aprender e aplicar meus conhecimentos.
