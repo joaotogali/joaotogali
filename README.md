@@ -1,5 +1,5 @@
-## Olá, eu sou o João✋
-## Estudante de Sistemas de Informação da UFF
+## Hello, I`m João✋
+## Student of Information Systems at UFF
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/joão-gabriel-mattos-otogali-0a1564205/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
@@ -7,10 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/jaotogali/)
 
-
 ![joaotogali GitHub stats](https://github-readme-stats.vercel.app/api?username=joaotogali&show_icons=true&theme=radical)        
 
-## Tecnologias que uso no dia-a-dia
+## Technologies I use on a daily basis
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -24,4 +23,4 @@
    <img align="center" alt="node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-   Apaixonado por tecnologia, buscando sempre aprender e aplicar meus conhecimentos.
+Passionate about technology, always looking to learn and apply my knowledge
